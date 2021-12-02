@@ -3,9 +3,9 @@
     - Estudando C++
     - Estudando Python   
  - 📩 Contato: miguelcerne15@gmail.com
- - Eu falo português 👽
- - I speak english 👻
- - Ich spreche deutsch 👾
+ - 👽 Eu falo português 
+ - 👻 I speak english 
+ - 👾 Ich spreche deutsch 
 <div align="center">
   <a href="https://github.com/Cerne17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cerne17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
