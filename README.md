@@ -1,4 +1,5 @@
  ## E aí! Eu sou o Miguel Cerne
+ - 🎓 Atualmente cursando Engenharia Eletrônica e de Computação na UFRJ
  - 📚 Estudando para o ITA 😅
     - Estudando C++
     - Estudando Python   
