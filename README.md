@@ -1,7 +1,7 @@
  ## E aí! Eu sou o Miguel Cerne
  - 🎓 Atualmente cursando Engenharia Eletrônica e de Computação na UFRJ
  - 📚 Estudando para o ITA 😅
-    - Estudando C
+    - Estudando Backend Development with Nestjs
     - Estudando Python
     - Entusiasta de Programação Competitiva   
  - 📩 Contato: miguelcerne15@gmail.com
