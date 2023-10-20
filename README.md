@@ -3,7 +3,8 @@
  - 📚 Estudando para o ITA 😅
     - Estudando Backend Development with Nestjs
     - Estudando Python
-    - Entusiasta de Programação Competitiva   
+    - Entusiasta de Programação Competitiva
+    - Amante de Vim
  - 📩 Contato: miguelcerne15@gmail.com
  - 👽 Eu falo português 
  - 👻 I speak english 
