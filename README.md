@@ -7,6 +7,7 @@
     - Amante de Neovim
  - 📩 Contato: miguelbadanycerne.20231@poli.ufrj.br
     - miguelcerne15@gmail.com
+    - miguelcerne.dev@gmail.com
  - 👽 Eu falo português 
  - 👻 I speak english 
  - 👾 Ich spreche Deutsch 
