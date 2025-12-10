@@ -42,6 +42,7 @@ I am a **Software Engineer** undergraduate at UFRJ with a strong background in *
 - 💼 Previously, I built scalable APIs at **Fluxo Consultoria** and ML models for security at **GTA-UFRJ**.
 - 🌱 I’m currently deepening my knowledge in **Distributed Systems** and **Advanced NestJS Patterns**.
 - ⚡ Fun fact: I use **Neovim** (btw) and I'm a competitive programming enthusiast.
+- 📫 **How to reach me:** miguelcerne.dev@gmail.com
 
 ---
 
@@ -72,6 +73,10 @@ I am a **Software Engineer** undergraduate at UFRJ with a strong background in *
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cerne17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerne17&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  <a href="https://github.com/Cerne17">
+    <img src="https://github-readme-stats.vercel.app/api?username=Cerne17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  </a>
+  <a href="https://github.com/Cerne17">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerne17&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  </a>
 </div>
