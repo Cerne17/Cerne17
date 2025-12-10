@@ -67,16 +67,3 @@ I am a **Software Engineer** undergraduate at UFRJ with a strong background in *
 | :--- | :--- | :--- |
 | **SnippetVault** | A production-ready code snippet management platform with **RBAC** and **JWT Auth**. | `NestJS` `React` `MongoDB` `Docker` |
 | **Security ML** | Security analysis model with **95% accuracy** optimized for TPUs. | `Python` `Scikit-Learn` `Pandas` |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Cerne17">
-    <img src="https://github-readme-stats.vercel.app/api?username=Cerne17&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  </a>
-  <a href="https://github.com/Cerne17">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cerne17&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-  </a>
-</div>
