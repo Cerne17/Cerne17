@@ -74,9 +74,9 @@ I am a **Software Engineer** undergraduate at UFRJ with a strong background in *
 
 <div align="center">
   <a href="https://github.com/Cerne17">
-    <img src="https://github-readme-stats.vercel.app/api?username=Cerne17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Cerne17&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
   </a>
   <a href="https://github.com/Cerne17">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerne17&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cerne17&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="languages graph" />
   </a>
 </div>
