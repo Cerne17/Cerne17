@@ -53,7 +53,7 @@ I am a **Software Engineer** undergraduate at UFRJ with a strong background in *
 | **Category** | **Technologies** |
 |:---:|:---|
 | **Back-end** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,express,python,cpp" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" /> |
 | **Front-end** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js" /> |
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,linux,neovim,postman" /> |
 
